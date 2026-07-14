@@ -112,3 +112,19 @@ Features:
 - Data Analysis
 
 ---
+
+# Future Improvements
+
+- Add streaming platform comparison dashboards
+- Include advanced user engagement metrics
+- Build predictive analytics using Python
+- Integrate additional content metadata
+
+---
+
+## Author
+
+**Aadarsh Pundhir**
+
+- LinkedIn: https://www.linkedin.com/in/aadarsh-pundhir-50a908292/
+- GitHub: https://github.com/pundhiraadarsh77
