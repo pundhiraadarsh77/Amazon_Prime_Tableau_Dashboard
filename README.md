@@ -100,6 +100,14 @@ Features:
 
 ---
 
+## Interactive Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+🔗 [https://public.tableau.com/views/YourDashboardName/Story1](https://public.tableau.com/app/profile/aadarsh.pundhir/viz/AmazonPrimeAnalyticsDashboard/Story1)
+
+---
+
 ## Project Files
 
 - Tableau Workbook (.twbx)
