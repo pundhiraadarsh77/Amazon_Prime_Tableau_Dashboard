@@ -100,6 +100,16 @@ Features:
 
 ---
 
+## Project Files
+
+- Tableau Workbook (.twbx)
+- Dashboard PDF
+- Raw Dataset
+- Cleaned Dataset
+- Tableau Public Dashboard
+
+---
+
 # Skills Demonstrated
 
 - Data Cleaning
